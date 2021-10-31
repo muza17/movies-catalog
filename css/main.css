@@ -359,9 +359,9 @@ body {
 }
 
 .container {
-  max-width: examplepx;
-  padding-left: examplepx;
-  padding-right: examplepx;
+  max-width: 1245px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -380,5 +380,19 @@ img {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.left__button {
+  width: 389px;
+  color: white;
+}
+
+.right__alert {
+  color: #333;
+}
+
+.card-icon {
+  margin-right: 20px;
+  margin-top: 5px;
 }
 /*# sourceMappingURL=main.css.map */
